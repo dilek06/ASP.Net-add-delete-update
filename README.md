@@ -1,6 +1,6 @@
-# ASP.Net-add-delete-update
+# ASP.Net-add-delete-update-MVC
 
-Simple add, delete, update operations with ASP.Net.
+Simple add, delete, update operations with ASP.Net. MVC, Codefirst
 
 Screenshot:
 
